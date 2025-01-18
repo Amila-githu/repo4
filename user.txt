@@ -1,6 +1,10 @@
 user1-amila
 pw 1234
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< 
+>>>>>>> branch4
 hide text 
 =======
 hide text 
